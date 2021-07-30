@@ -1,0 +1,7 @@
+[module]
+[[module.mounts]]
+source = ""
+target = "content/docs"
+[[module.mounts]]
+source = "../README.rst"
+target = "content/ref/xnatutils_README.rst"
